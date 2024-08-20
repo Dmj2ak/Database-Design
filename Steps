@@ -1,0 +1,8 @@
+The process of designing the data model  involves the following steps:
+
+	• Requirement Gathering: Understanding the business needs and the types of data that will be stored.
+	• Conceptual Modeling: Creating a high-level ER diagram to outline the main entities and relationships.
+	• Logical Modeling: Refining the conceptual model by adding attributes, primary keys, and foreign keys. This phase may involve normalization.
+	• Physical Modeling: Translating the logical model into a physical database schema by defining tables, columns, data types, indexes, and constraints.
+	• Review & Refinement: Collaborating with stakeholders to review the model, making adjustments as necessary to ensure it meets business requirements and technical specifications.
+	• Implementation: Deploying the model in the chosen database management system (DBMS) and performing any necessary optimizations for performance.
